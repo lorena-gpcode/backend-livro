@@ -22,4 +22,4 @@ async function conectabancodedados() {
         
     }    
 }
-conectabancodedados()
+module.exports = conectabancodedados
